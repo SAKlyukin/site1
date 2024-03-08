@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+   background-color:DeepSkyBlue ;
+    padding:15px;
+    border-radius:15px;
+}
+
+header a {
+    background-color:white;
+    color: DeepSkyBlue;
+    padding: 5px;
+    text-decoration: none;
+    border-radius:15px;
+}
+
+header img {
+     border-radius:15px;
+}
+
+h1 {
+    color:Lime ;
+    border: 5px solid Teal;
+    text-align: center;
+}
+
+footer {
+    color:BlueViolet ;
+    background-color:Cyan ;
+    padding:10px;
+}
+
+footer p {
+    background-color:Snow;
+    padding:5px;
+}
+
+nav {
+    color:red ;
+    text-align: center;
+    text-decoration: none;
+}
+
+nav a {
+   color:red ; 
+   text-decoration: none;
+   margin:15px;
+}
+
+.xlopyka {
+    border: 10px solid Gold ;
+    border-radius:15px; 
+    padding: 5px;
+}
+
+h2 {
+    color:Tomato ;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
